@@ -6,6 +6,7 @@
 - [Q15.\[Web\] Redirect](cpaw/15.md)
 - [Q16.[Network+Forensic]HTTP Traffic](cpaw/16.md)
 - [Q17.[Recon]Who am I ?](cpaw/17.md)
+- [Q24.[Web]Baby's SQLi - Stage 2-](cpaw/24.md)
 - [Q26.[PPC]Remainder theorem](cpaw/26.md)
 - [Q29.[Crypto] Common World](cpaw/29.md)
 
